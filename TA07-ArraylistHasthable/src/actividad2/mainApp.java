@@ -15,6 +15,7 @@ public class mainApp {
 		 *  - número de artículos comprados
 		 *  - cantidad pagada
 		 *  - cambio a devolver al cliente
+		 *     
 		 *     */
 		
 		Scanner sc = new Scanner(System.in);
