@@ -14,7 +14,7 @@ public class mainApp {
 		 *  - precio total bruto y precio + IVA
 		 *  - número de artículos comprados
 		 *  - cantidad pagada
-		 *  - cambio a devolver al cliente.*/
+		 *  - cambio a devolver al cliente*/
 		
 		Scanner sc = new Scanner(System.in);
 		
