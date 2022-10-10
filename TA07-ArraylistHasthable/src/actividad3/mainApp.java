@@ -8,7 +8,7 @@ public class mainApp {
 		 * El usuario podrá añadir, por edio de interfaz visual artículos
 		 * nuevos y cantidades de estos. El usuario podrá consultar información
 		 * almacenada en el diccionario referente a un artículo concreto
-		 * e incluso listar toda la información en la terminal del programa*/
+		 * e incluso listar toda la información en la terminal del programa.*/
 
 	}
 
