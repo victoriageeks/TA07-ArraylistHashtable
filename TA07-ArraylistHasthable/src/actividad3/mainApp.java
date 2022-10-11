@@ -63,6 +63,7 @@ public class mainApp {
 				System.out.println("Producto: "+ productos_k.nextElement()+ " // Precio: "+ productos_e.nextElement());
 				System.out.println("");
 			}
+		break;
 		}
 	}
 
